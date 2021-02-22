@@ -5,8 +5,8 @@ Responsive Web Design Project - Build A Tribute Page (from: freeCodeCamp.org )
 To practice HTML and CSS topics learnt from the [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) course on [freecodecamp.org](freecodecamp.org)
 
 # Tech Used
-Basic HTML & CSS
-Coded on codepen
+Pure HTML & CSS
+
 
 # Screenshot of project
 
