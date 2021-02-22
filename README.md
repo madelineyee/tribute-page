@@ -9,3 +9,5 @@ Basic HTML & CSS
 Coded on codepen
 
 # Screenshot of project
+
+![Screenshot 2021-02-22 145150](https://user-images.githubusercontent.com/57208684/108672767-989f2500-751d-11eb-9004-e9b3308eda75.jpg)
